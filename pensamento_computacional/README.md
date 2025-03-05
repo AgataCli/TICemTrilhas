@@ -84,4 +84,4 @@ python desafio_calculadora.py
 
 ---
 **Desenvolvido como parte da trilha de Pensamento Computacional** 🚀
-```
+---
