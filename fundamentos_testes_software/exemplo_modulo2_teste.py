@@ -1,5 +1,5 @@
-# Reprodução do código mostrado durante a trilha para experenciar sua execução
-# Código de Carlos Santana, professor da trilha
+# Reprodução do código exibido durante a trilha para experenciar sua execução
+# Código exposto por Carlos Santana, professor da trilha
 
 import unittest
 
