@@ -56,9 +56,9 @@ Este repositório documenta meus estudos nas trilhas obrigatórias de programado
 - Casos de teste de um Login
   - Uso do Unittest
 
-### Exercícios Práticos
-- Exercício 1 (adicionar formatado)
-- Exercício 2 (adicionar formatado)
+### Exercícios Práticos no README
+- Atividade 1 
+- Atividade 2 
 
 ---
 
@@ -103,6 +103,7 @@ TICemTrilhas/
         └── lista_de_compras.json  
 
     ├── fundamentos_testes_software/
+        ├── README.md 
         └── exemplo_modulo2_teste.py              
 
     └── desenvolvimento_jogos_2d/
