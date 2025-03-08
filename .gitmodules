@@ -1,0 +1,3 @@
+[submodule "desenvolvimento_jogos_2d"]
+	path = desenvolvimento_jogos_2d
+	url = https://github.com/AgataCli/ChickenTrilha.git
