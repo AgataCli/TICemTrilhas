@@ -13,7 +13,7 @@ Este repositório documenta meus estudos nas trilhas obrigatórias de programado
 ## 🚀 Projetos Desenvolvidos
 
 ### 🎮 Desenvolvimento de Games 2D (Unity)
-*Projeto na pasta /UnityGames/2D-Platformer*
+*Projeto na pasta /desenvolvimento_jogos_2d*
 
 #### Jogo Plataforma 2D
 - Mecânicas implementadas:
@@ -30,7 +30,7 @@ Este repositório documenta meus estudos nas trilhas obrigatórias de programado
 ---
 
 ### 🐍 Pensamento Computacional com Python
-*Projetos na pasta /PensamentoComputacional*
+*Projetos na pasta /pensamento_computacional*
 
 #### 1. Calculadora Terminal
 - Interface CLI para operações matemáticas básicas
@@ -50,7 +50,7 @@ Este repositório documenta meus estudos nas trilhas obrigatórias de programado
 ---
 
 ### 🧪 Teste de Software
-*Projetos na pasta /TesteDeSoftware*
+*Atividades na pasta /fundamentos_testes_software*
 
 ### Exemplo de Testagem exibido nas Vídeo Aulas
 - Casos de teste de um Login
